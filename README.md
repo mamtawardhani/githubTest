@@ -21,7 +21,7 @@
 
 
 ## Links
-[Google][www.google.com]
+[Google][https://www.google.com]
 
 
 ## Images
